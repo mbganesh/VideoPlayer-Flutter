@@ -7,7 +7,10 @@ A simple Flutter Video Player App
 
 ## Getting Started
 
+### Source Code:
 [MyVideoPlayer.dart](https://github.com/mbganesh/VideoPlayer-Flutter/blob/main/lib/MyVideoPlayer.dart)
+
+### 4 Step to complete out project
 
   - Import video_player package from [pub.dev](https://pub.dev/packages/video_player)
 
