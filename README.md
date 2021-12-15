@@ -2,6 +2,9 @@
 
 A simple Flutter Video Player App
 
+
+![test image size](https://user-images.githubusercontent.com/51211116/146184074-fafdda94-ffa3-409d-bedd-77ea0f92c421.png)
+
 ## Getting Started
 
 [MyVideoPlayer.dart](https://github.com/mbganesh/VideoPlayer-Flutter/blob/main/lib/MyVideoPlayer.dart)
